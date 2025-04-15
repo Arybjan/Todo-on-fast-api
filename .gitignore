@@ -1,4 +1,6 @@
 api/__init__.py
 api/routers/__init__.py
+api/__pycache__
+api/routers/__pycache__
 .vscode
 app/__pycache__
