@@ -1,4 +1,6 @@
 from fastapi import APIRouter
+from api.models.todo_models import Todo
+from api.schemas.todo_shemas import GetTodo
 
 
 todo_router = APIRouter(prefix="/api", tags=["Todo"])
