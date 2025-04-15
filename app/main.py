@@ -8,4 +8,4 @@ app.include_router(todo_router)
 
 @app.get("/")
 def index():
-    return {"status": "Hello world! Todo api is raunning.."}
+    return {"status": "Hello world! Todo api is running.."}

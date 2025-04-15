@@ -3,5 +3,6 @@ api/routers/__init__.py
 api/__pycache__
 api/routers/__pycache__
 api/models/__pycache__
+api/schemas/__pycache__
 .vscode
 app/__pycache__
